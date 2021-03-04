@@ -14,3 +14,5 @@
 <a href="https://github.com/corduroypython?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corduroypython&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+<br>
+<img src="https://media.discordapp.net/attachments/796066552633622548/816457226964303912/deploys.gif"></code>
